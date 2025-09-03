@@ -1,46 +1,52 @@
-# 🟡 Mid-Level — Core Machine Learning (3–9 months)
+# 🟡 Mid-Level Roadmap (3–9 months)
 
-## 🎯 Goal  
-Move from **tool user → tool builder** by mastering OOP, scikit-learn, and Kaggle ML projects.  
-By the end, you’ll have a **DataCleaner toolkit** and ML portfolio projects.  
+**Goal:** Master core ML with scikit-learn, pipelines, and Kaggle projects.  
 
----
+## Stage 1: Core ML Foundations
+- Supervised/unsupervised learning, validation, metrics  
 
-## ✅ Roadmap Checklist  
-- [ ] OOP refresher (classes, inheritance, methods)  
-- [ ] Build `DataCleaner` class (remove_nulls, normalize, standardize)  
-- [ ] Error handling & logging  
-- [ ] Modular design (split into files)  
-- [ ] Unit testing basics  
-- [ ] scikit-learn (pipelines, model evaluation)  
-- [ ] Feature engineering (scaling, encoding)  
-- [ ] Model metrics (accuracy, F1, ROC-AUC, MSE)  
-- [ ] Kaggle projects (Titanic, House Prices)  
+📚 Resources  
+- *Hands-On ML with Scikit-Learn, Keras & TensorFlow — Aurélien Géron*  
+- [StatQuest YouTube](https://www.youtube.com/c/joshstarmer)  
 
----
+## Stage 2: Production-Ready Projects
+- Modular repos, reproducibility, packaging  
 
-## 🛠 Projects  
-- 🧹 **DataCleaner Toolkit** → OOP module for cleaning datasets  
-- 📊 **Apply Cleaner** → multiple datasets (Sales, Crypto, Social)  
-- 🤖 **Kaggle ML Projects** → Titanic survival, House Prices prediction  
-👉 Final deliverable: **Portfolio Project #2**  
+📚 Resources  
+- *Effective Python* — Brett Slatkin  
+- [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)  
 
----
+## Stage 3: Kaggle & Real-World Readiness
+- End-to-end Kaggle pipelines  
 
-## 📚 Resources  
-
-### 📘 Courses  
-- [scikit-learn Crash Course](https://scikit-learn.org/stable/tutorial/index.html)  
-- [Intro to Machine Learning (Kaggle)](https://www.kaggle.com/learn/intro-to-machine-learning)  
-- [Python OOP Tutorial (Corey Schafer)](https://www.youtube.com/watch?v=JeznW_7DlB0)  
-
-### 🌐 Websites  
+📚 Resources  
 - [Kaggle Competitions](https://www.kaggle.com/competitions)  
-- [Scikit-learn Docs](https://scikit-learn.org/stable/)  
+- [fast.ai](https://course.fast.ai/)
 
-### 📖 Books  
-- *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow — Aurélien Géron*  
+## 📊 Progress
 
-### 🎥 YouTube Channels  
-- [StatQuest](https://www.youtube.com/c/joshstarmer) (ML explained simply)  
-- [sentdex](https://www.youtube.com/user/sentdex) (Python ML series)  
+## 📊 Progress
+
+## 📊 Progress
+
+## 📊 Progress
+
+## 📊 Progress
+
+## 📊 Progress
+
+<!-- PROGRESS_START -->
+| Milestone | Topics | Things to Do | Overall |
+|---|---:|---:|---:|
+| `Evaluation & Tuning` | 0/6 (0%) | 0/3 (0%) | 0/9 (0%) |
+| `Feature Engineering` | 0/6 (0%) | 0/3 (0%) | 0/9 (0%) |
+| `Kaggle Track` | 0/5 (0%) | 0/3 (0%) | 0/8 (0%) |
+| `Mid-Level Milestones` | 0/0 (0%) | 0/0 (0%) | 0/0 (0%) |
+| `Project Engineering` | 0/6 (0%) | 0/3 (0%) | 0/9 (0%) |
+| `scikit-learn` | 0/7 (0%) | 0/4 (0%) | 0/11 (0%) |
+<!-- PROGRESS_END -->
+
+
+
+
+

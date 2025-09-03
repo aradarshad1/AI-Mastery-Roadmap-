@@ -1,45 +1,55 @@
-# 🟢 Junior Level — AI Foundations (0–3 months)
+# 🟢 Junior Level Roadmap (0–3 months)
 
-## 🎯 Goal  
-Master **data analysis foundations** using Python, NumPy, Pandas, and Matplotlib.  
-By the end of this stage, you’ll be a confident **data analyst with a GitHub-ready portfolio project**.  
+**Goal:** Build solid foundations in Python, Math for ML, and Data Analysis.  
 
----
+## Phase 1: Data Analysis Mastery (Day 1–30)
+- Pandas basics, NumPy operations, Matplotlib visualization
 
-## ✅ Roadmap Checklist  
-- [ ] Python fundamentals (functions, OOP basics, file handling)  
-- [ ] Math basics (linear algebra, probability, calculus)  
-- [ ] NumPy (arrays, broadcasting, matrix ops)  
-- [ ] Pandas (cleaning, aggregations, joins)  
-- [ ] Matplotlib & Seaborn (data viz)  
-- [ ] Git & GitHub basics  
-- [ ] Jupyter & Colab  
-
----
-
-## 🛠 Projects  
-- 📊 **Sales Dataset Analysis** → trends, product breakdown  
-- 💹 **Crypto/Stock Analysis** → moving averages, correlations  
-- 🌍 **Social Dataset Analysis** → Twitter/Reddit trend visualization  
-- 🔗 **Combined Pipeline Project** → Pandas + NumPy + Matplotlib  
-👉 Final deliverable: **Portfolio Project #1**  
-
----
-
-## 📚 Resources  
-
-### 📘 Courses  
-- [NumPy Crash Course (freeCodeCamp)](https://www.youtube.com/watch?v=QUT1VHiLmmI)  
-- [Pandas Tutorial (Data School)](https://www.youtube.com/watch?v=vmEHCJofslg)  
-- [Matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)  
-
-### 🌐 Websites  
-- [Kaggle](https://www.kaggle.com/) → datasets to practice  
-- [DataCamp Free Resources](https://www.datacamp.com/)  
-
-### 📖 Books  
+📚 Resources  
 - *Python for Data Analysis — Wes McKinney*  
+- *Python Crash Course — Eric Matthes*  
 
-### 🎥 YouTube Channels  
-- [Corey Schafer](https://www.youtube.com/c/Coreyms) (Python + Pandas)  
-- [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp) (full Python & Data Science courses)  
+## Phase 2: OOP + Tool Building (Day 31–60)
+- Object-Oriented Programming refresher  
+- Data Cleaning Toolkit v1.0  
+
+📚 Resources  
+- *Fluent Python — Luciano Ramalho*  
+- *Effective Python — Brett Slatkin*  
+
+## Phase 3: Showcase & Portfolio (Day 61–90)
+- Jupyter Notebooks storytelling  
+- Publish on GitHub  
+
+📚 Resources  
+- [Kaggle](https://www.kaggle.com/)  
+- [freeCodeCamp Python](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
+## 📊 Progress
+
+## 📊 Progress
+
+## 📊 Progress
+
+## 📊 Progress
+
+## 📊 Progress
+
+## 📊 Progress
+
+<!-- PROGRESS_START -->
+| Milestone | Topics | Things to Do | Overall |
+|---|---:|---:|---:|
+| `Junior Level Milestones` | 0/0 (0%) | 0/0 (0%) | 0/0 (0%) |
+| `Math Milestone` | 0/4 (0%) | 0/3 (0%) | 0/7 (0%) |
+| `Matplotlib` | 0/5 (0%) | 0/3 (0%) | 0/8 (0%) |
+| `NumPy` | 0/6 (0%) | 0/3 (0%) | 0/9 (0%) |
+| `OOP Foundations` | 0/13 (0%) | 0/9 (0%) | 0/22 (0%) |
+| `Pandas` | 0/6 (0%) | 0/3 (0%) | 0/9 (0%) |
+| `Python Basics` | 0/5 (0%) | 0/3 (0%) | 0/8 (0%) |
+<!-- PROGRESS_END -->
+
+
+
+
+
