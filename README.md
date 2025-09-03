@@ -11,9 +11,9 @@ The pathway is split into 3 realistic stages:
 
 ## 📂 Repo Structure  
 
-- [`junior-level/`](junior-level/README.md) → **First 90 days** → Fundamentals + portfolio project  
-- [`mid-level/`](mid-level/README.md) → **3–9 months** → Core ML + Kaggle projects + toolkits  
-- [`senior-level/`](senior-level/README.md) → **1–2 years** → Deep Learning, deployment, research-level skills  
+- [junior-level/](junior-level/README.md) → **First 90 days** → Fundamentals + portfolio project  
+- [mid-level/](mid-level/README.md) → **3–9 months** → Core ML + Kaggle projects + toolkits  
+- [senior-level/](senior-level/README.md) → **1–2 years** → Deep Learning, deployment, research-level skills  
 
 ---
 
